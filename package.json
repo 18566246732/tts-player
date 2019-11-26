@@ -1,0 +1,23 @@
+{
+  "name": "tts-player",
+  "version": "1.0.0",
+  "description": "a cross-platform tts(text to speach) player",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18566246732/tts-player.git"
+  },
+  "keywords": [
+    "tts",
+    "websocket"
+  ],
+  "author": "ivan liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18566246732/tts-player/issues"
+  },
+  "homepage": "https://github.com/18566246732/tts-player#readme"
+}
